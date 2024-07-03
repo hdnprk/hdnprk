@@ -36,6 +36,7 @@ ___
 <div>
   <h3>🥇Project</h3>
   <h4>생활환경에 따른 노인 기대 수명 및 삶의 만족도 분석 서비스</h4>
+  <h4>Analysis Service of Elderly Life Expectancy and Life Satisfaction Based on Living Environment</h4>
   💻 [git] https://github.com/hdnprk/DLT-Team-Project
 </div>
 
