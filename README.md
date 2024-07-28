@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>This is Choyoon Park, a backend engineer who is not afraid of mistake.</h2>
+  <h2>This is Choyoon Park, a Software engineer who is not afraid of mistake.</h2>
 </div>
 
 <div>
